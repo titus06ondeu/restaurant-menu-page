@@ -1,0 +1,44 @@
+
+            h1{
+                color: darkred;
+                font-size: 50px;
+            }
+
+            h2{
+                color:goldenrod;
+                font-weight: bolder;
+                font-size: 40px;
+                
+            }
+
+            p{
+                color:black;
+                font-size: 20px;
+                font-weight:bold;
+            }
+
+            table{
+                width: 60%;
+                background-color:#F5E1C8;
+                height:200px;
+                border: 5px;
+                border-color: black;
+                border-style: outset;
+            }
+
+            th{
+                font-size: 30px;
+            }
+
+            .second_row{
+                font-size:20px;
+                font-weight: 1000;
+            }
+
+            a {
+                color: yellow; /* Soft Gold */
+                text-decoration:underline; /* Removes underline */
+                font-weight: bold;
+                font-size: 18px;
+            }
+             
